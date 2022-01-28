@@ -1,6 +1,6 @@
 import dash
-import dash_core_components as dcc
-import dash_core_components as html
+import dash as dcc
+import dash as html
 from dash.dependencies import Output, Input
-import dash_bootstrap-components as dbc
+import dash_bootstrap_components as dbc
 print('teste...')
